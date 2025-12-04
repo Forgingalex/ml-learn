@@ -1,4 +1,4 @@
-# My Python to Machine Learning Learning Journey
+# My Python to ML Learning Journey
 
 This folder documents my step-by-step journey learning Python from the very basics all the way to building my first machine learning model.
 
